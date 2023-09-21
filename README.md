@@ -7,4 +7,4 @@ To run this code:
 3. Pass a path to this file in a code and run the code.
 4. Reviews will be saved in Result.csv file for a choosen restaurant.
 
-You may refer to demo.pdf if you have any confusion.
+You may refer to pdf if you have any confusion.
